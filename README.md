@@ -29,3 +29,10 @@ A new Flutter project.
 
 ### Langkah 7: Menambahkan aksi pada ListView
 ![alt](/images/09.png)
+
+### Langkah 7: Hasil Output
+![alt](/images/08.png)
+
+Pada saat item sugar dan salt di klik maka akan menampilkan item page seperti dibawah ini
+
+![alt](/images/10.png)
